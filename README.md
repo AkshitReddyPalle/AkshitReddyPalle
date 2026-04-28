@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Akshit Reddy Palle 👋
 
-<!--
-**AkshitReddyPalle/AkshitReddyPalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science student at George Washington University
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🔹 AI Slide Generator, Classroom Simulator & Lesson Planner
+
+Worked on systems that generate structured presentations, simulate classroom interactions, and assist in lesson planning using LLMs.
+
+### 🔹 Multimodal Stock Price Forecasting with News Sentiment
+
+Explored whether incorporating news sentiment improves stock price prediction using time series models.
+
+### 🔹 Human Action Recognition
+
+Built an image-based human activity classifier using a ResNet architecture.
+
+### 🔹 Edge-Based PII Detection & Censoring System
+
+Developed a system to detect and censor sensitive information for privacy-focused applications.
+
+---
+
+## 🛠️ Tech
+
+**Languages:** Python · SQL · R
+
+**ML/DS:** Pandas · Scikit-learn · XGBoost · Random Forest · TensorFlow · PyTorch
+
+**Backend & Systems:** FastAPI · AWS
+
+---
+
+## 📫 Connect
+
+LinkedIn: [View Profile](www.linkedin.com/in/akshit-reddy-palle-452494148)
+
